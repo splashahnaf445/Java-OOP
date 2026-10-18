@@ -1,4 +1,14 @@
-# Java-OOP
-Basics and fundamentals of object oriented programming using JAVA
+# 01 – OOP Midterms (Java)
 
-I have Manually solved all the mid term Question paper of 4 semesters of my University. Each folder contains the question paper PDF along with each solved code in different class files and different main files for each Question.
+Basics and fundamentals of object-oriented programming using Java.
+
+Manually solved midterm question papers from 4 semesters. Each folder has:
+- the question paper (PDF)
+- `src/` with a class file per concept and a separate `Q#main.java` for each question
+
+| Folder | Semester |
+|---|---|
+| `Mid-Fall-22` | Fall 2022 |
+| `Mid-Summer23` | Summer 2023 |
+| `Mid-Fall-23` | Fall 2023 |
+| `Mid-Spring-24` | Spring 2024 |
